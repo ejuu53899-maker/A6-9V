@@ -1,0 +1,6 @@
+[submodule "SkyForge"]
+	path = SkyForge
+	url = https://github.com/LuigiVampa92/SkyForge
+[submodule "all-in-one-desktop-mode"]
+	path = all-in-one-desktop-mode
+	url = https://codeberg.org/LengKundee/all-in-one-desktop-mode-.git
